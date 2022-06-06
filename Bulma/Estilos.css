@@ -1,0 +1,22 @@
+.uno {
+    color: yellow;
+    margin: 5px;
+}
+
+.dos {
+    color: rgb(124, 123, 202);
+    margin: 10px;
+}
+
+.tres {
+    color: rgb(230, 146, 218);
+    margin: 15px;
+}
+
+.uu {
+    background-color: rgb(230, 146, 218);
+}
+
+.ua {
+    background-color: lime;
+}
